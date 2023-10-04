@@ -1,2 +1,5 @@
 1st string
+<<<<<<< HEAD
 2nd string
+=======
+>>>>>>> 956783c (added cherry-pick 1st)
